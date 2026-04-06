@@ -101,4 +101,5 @@ The main objectives of this dashboard are:-<br>
 ● ⚡ Enhanced operational efficiency<br>
 
 <h2><b>📸 Project Screenshots :-</b></h2><br>
-This section showcases the visual representation of the Uber Ride Analytics Dashboard, highlighting different pages and key insights. ![Alt text](https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg)
+This section showcases the visual representation of the Uber Ride Analytics Dashboard, highlighting different pages and key insights. 
+![Dashboard Preview](https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg)
