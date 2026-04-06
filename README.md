@@ -1,105 +1,172 @@
-<h2><b>🚖 Project Title :-</b></h2>
-Uber Ride Analytics Dashboard (Power BI Project)<br>
+# 🚖 Uber Ride Analytics Dashboard (Power BI Project)
 
-<h2><b>📄 Short Description :-</b></h2><br>
-This project is an interactive Uber Ride Analytics Dashboard designed to analyze ride data, monitor business performance, and generate actionable insights. The dashboard helps stakeholders understand ride patterns, revenue trends, customer behavior, and vehicle performance through clear and dynamic visualizations.<br>
+## 📄 Short Description
 
-<h2><b>🛠️ Tech Stack :-</b></h2><br>
-● Frontend / Visualization Tool: Power BI<br>
-● Data Processing: Power Query (ETL)<br>
-● Data Analysis: DAX (Data Analysis Expressions)<br>
-● Data Source Format: Excel / CSV / Dataset file<br>
+This project is an interactive **Uber Ride Analytics Dashboard** designed to analyze ride data, monitor business performance, and generate actionable insights.
 
-<h2><b>📊 Data Source :-</b></h2><br>
-The dataset used in this project is sourced from publicly available repositories on GitHub, which provide real-world Uber ride data for analysis.<br>
+The dashboard helps stakeholders understand:
 
-<h2><b>📁 Dataset Details :-</b></h2><br>
-The dataset contains the following attributes:-<br>
-● Ride Date & Time<br>
-● Pickup Location (Latitude & Longitude)<br>
-● Base / Dispatching Area<br>
-● Trip Records<br>
+* Ride patterns
+* Revenue trends
+* Customer behavior
+* Vehicle performance
 
-<h2><b>🔗 Source :-</b></h2><br>
-● Public Uber dataset repository from GitHub<br>
+All insights are presented through clear and dynamic visualizations.
 
-<h2><b>📌 Nature of Data :-</b></h2><br>
-● Real-world Uber trip data (historical)<br>
-● Large-scale dataset used for analytics and visualization<br>
-● Cleaned and preprocessed for dashboard development<br>
+---
 
-<h2><b>⚙️ Data Preparation :-</b></h2><br>
-● Removed missing/null values<br>
-● Converted date-time into structured format<br>
-● Created calculated columns (Revenue, Ride Count, etc.)<br>
-● Transformed raw data using Power Query<br>
+## 🛠️ Tech Stack
 
-<h2><b>🚀 Features :-</b></h2><br>
-<h2><b>1. 🔍 Business Problem</b></h2><br>
-Uber operates in a highly dynamic environment where understanding ride demand, revenue patterns, and operational efficiency is critical.<br>
+* **Visualization Tool:** Power BI
+* **Data Processing:** Power Query (ETL)
+* **Data Analysis:** DAX (Data Analysis Expressions)
+* **Data Source:** Excel / CSV
 
-<h2><b>Challenges include:</b></h2><br>
-● Identifying peak demand times<br>
-● Understanding revenue fluctuations<br>
-● Tracking customer usage patterns<br>
-● Optimizing vehicle allocation<br>
-● Detecting underperforming areas<br>
+---
 
-<h2><b>2. 🎯 Goal of the Dashboard :-</b></h2><br>
-The main objectives of this dashboard are:-<br>
-● To provide a real-time overview of Uber operations<br>
-● To analyze revenue and ride trends<br>
-● To identify high-demand locations and time slots<br>
-● To evaluate vehicle performance and usage<br>
-● To improve decision-making using data-driven insights<br>
+## 📊 Data Source
 
-<h2><b>3. 📈 Walkthrough of Key Visuals :-</b></h2><br>
-🏠 Home Page<br>
-● Summary cards showing:<br>
-  ● Total Rides<br>
-  ● Total Revenue<br>
-  ● Total Customers<br>
-● Navigation bar for easy access to different sections<br>
+The dataset used in this project is sourced from publicly available repositories on **GitHub**, providing real-world Uber ride data for analysis.
 
-<h2><b>📊 Overview Dashboard</b></h2><br>
-● Line Chart → Ride trends over time<br>
-● Bar Chart → Revenue distribution<br>
-● Map Visualization → Pickup & drop locations<br>
-● KPI Cards → Quick insights<br>
-👉 Helps understand overall business performance<br>
+---
 
-<h2><b>🚗 Vehicle Analysis Page</b></h2><br>
-● Pie Chart → Ride distribution by vehicle type<br>
-● Bar Chart → Revenue by vehicle<br>
-● Table → Vehicle-wise performance<br>
-👉 Helps identify which vehicle types generate more profit<br>
+## 📁 Dataset Details
 
-<h2><b>💰 Revenue Dashboard</b></h2><br>
-● Time-series chart → Revenue trends<br>
-● Heatmap → Peak earning periods<br>
-● Filters → Date, location, vehicle type<br>
-👉 Helps analyze when and where revenue is highest<br>
+The dataset contains:
 
-<h2><b>👤 Rider Analysis Page</b></h2><br>
-● Customer segmentation<br>
-● Repeat vs new customers<br>
-● Ride frequency<br>
-👉 Helps understand customer behavior and retention<br>
+* Ride Date & Time
+* Pickup Location (Latitude & Longitude)
+* Base / Dispatching Area
+* Trip Records
 
-<h2><b>4. 💡 Business Impact & Insights</b></h2><br>
-📌 Key Insights:<br>
-● Peak ride demand occurs during specific hours (rush hours)<br>
-● Certain locations generate higher revenue consistently<br>
-● Some vehicle types contribute more to profitability<br>
-● Repeat customers significantly impact overall revenue<br>
+---
 
-<br>📌 Business Impact:<br>
-● 🚀 Better decision-making using real-time insights<br>
-● 📍 Optimized driver allocation in high-demand areas<br>
-● 💰 Increased revenue through trend analysis<br>
-● 👥 Improved customer targeting and retention strategies<br>
-● ⚡ Enhanced operational efficiency<br>
+## 📌 Nature of Data
 
-<h2><b>📸 Project Screenshots :-</b></h2><br>
-This section showcases the visual representation of the Uber Ride Analytics Dashboard, highlighting different pages and key insights. 
-Dashboard Preview :- https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg
+* Real-world historical Uber trip data
+* Large-scale dataset for analytics
+* Cleaned and preprocessed for dashboard usage
+
+---
+
+## ⚙️ Data Preparation
+
+* Removed missing/null values
+* Converted date-time into structured format
+* Created calculated columns (Revenue, Ride Count, etc.)
+* Data transformation using Power Query
+
+---
+
+## 🚀 Features
+
+### 🔍 Business Problem
+
+Uber operates in a highly dynamic environment where understanding:
+
+* Ride demand
+* Revenue patterns
+* Operational efficiency
+
+is critical.
+
+**Challenges:**
+
+* Identifying peak demand times
+* Understanding revenue fluctuations
+* Tracking customer usage patterns
+* Optimizing vehicle allocation
+* Detecting underperforming areas
+
+---
+
+### 🎯 Goal of the Dashboard
+
+* Provide a real-time overview of operations
+* Analyze revenue and ride trends
+* Identify high-demand locations
+* Evaluate vehicle performance
+* Enable data-driven decision-making
+
+---
+
+### 📈 Walkthrough of Key Visuals
+
+#### 🏠 Home Page
+
+* Total Rides
+* Total Revenue
+* Total Customers
+* Navigation panel
+
+---
+
+#### 📊 Overview Dashboard
+
+* Line Chart → Ride trends
+* Bar Chart → Revenue distribution
+* Map → Pickup locations
+* KPI Cards → Quick insights
+
+👉 Helps understand overall performance
+
+---
+
+#### 🚗 Vehicle Analysis
+
+* Pie Chart → Ride distribution
+* Bar Chart → Revenue by vehicle
+* Table → Performance analysis
+
+👉 Identifies profitable vehicle types
+
+---
+
+#### 💰 Revenue Dashboard
+
+* Time-series chart → Revenue trends
+* Heatmap → Peak earnings
+* Filters → Date, location, vehicle
+
+👉 Shows when & where revenue is highest
+
+---
+
+#### 👤 Rider Analysis
+
+* Customer segmentation
+* Repeat vs new customers
+* Ride frequency
+
+👉 Helps improve customer retention
+
+---
+
+### 💡 Business Impact & Insights
+
+#### 📌 Key Insights
+
+* Peak demand during rush hours
+* High-revenue locations identified
+* Profitable vehicle types highlighted
+* Repeat customers drive revenue
+
+---
+
+#### 📌 Business Impact
+
+* 🚀 Better decision-making
+* 📍 Optimized driver allocation
+* 💰 Increased revenue
+* 👥 Improved customer targeting
+* ⚡ Enhanced efficiency
+
+---
+
+## 📸 Project Screenshots
+
+### Dashboard Preview
+
+![Dashboard Preview](https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg)
+
+
