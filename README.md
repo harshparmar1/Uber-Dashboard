@@ -80,7 +80,7 @@ The main objectives of this dashboard are:-<br>
 ● Filters → Date, location, vehicle type<br>
 👉 Helps analyze when and where revenue is highest<br>
 
-<h2><b>👤 Rider Analysis Page</b><br>
+<h2><b>👤 Rider Analysis Page</b></h2><br>
 ● Customer segmentation<br>
 ● Repeat vs new customers<br>
 ● Ride frequency<br>
@@ -93,7 +93,7 @@ The main objectives of this dashboard are:-<br>
 ● Some vehicle types contribute more to profitability<br>
 ● Repeat customers significantly impact overall revenue<br>
 
-📌 Business Impact:<br>
+<br>📌 Business Impact:<br>
 ● 🚀 Better decision-making using real-time insights<br>
 ● 📍 Optimized driver allocation in high-demand areas<br>
 ● 💰 Increased revenue through trend analysis<br>
@@ -102,4 +102,4 @@ The main objectives of this dashboard are:-<br>
 
 <h2><b>📸 Project Screenshots :-</b></h2><br>
 This section showcases the visual representation of the Uber Ride Analytics Dashboard, highlighting different pages and key insights. 
-![Dashboard Preview](https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg)
+Dashboard Preview :- https://github.com/harshparmar1/Uber-Dashboard/blob/main/Uber-Dashboard.jpeg
